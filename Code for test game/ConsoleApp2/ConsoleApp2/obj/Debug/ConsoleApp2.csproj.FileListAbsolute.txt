@@ -1,0 +1,7 @@
+H:\Documents\My-test-text-rpg\Code for test game\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+H:\Documents\My-test-text-rpg\Code for test game\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+H:\Documents\My-test-text-rpg\Code for test game\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+H:\Documents\My-test-text-rpg\Code for test game\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+H:\Documents\My-test-text-rpg\Code for test game\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+H:\Documents\My-test-text-rpg\Code for test game\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+H:\Documents\My-test-text-rpg\Code for test game\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
